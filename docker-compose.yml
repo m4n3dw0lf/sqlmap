@@ -1,0 +1,5 @@
+sqlmapapi:
+  build: .
+  container_name: sqlmapapi
+  ports:
+   - 8775:8775       
